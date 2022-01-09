@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "title": "Sennheiser HD-800s",
+    "description": "The Bahamas, known officially as the Commonwealth of The Bahamas, is a country within the Lucayan Archipelago of the West Indies in the Atlantic. It takes up 97% of the Lucayan Archipelago's land area and is home to 88% of the archipelago's population.",
+    "price": 1999,
+    "image": "https://i.ibb.co/MgJVtHV/800s.jpg",
+    
+    "type": "OceanPackage"
+  },
+  {
+    "id": 2,
+    "title": "Hifiman Susvara",
+    "description": "Hawaii is a state in the Western United States located in the Pacific Ocean about 2,000 miles from the U.S. mainland. It is the only state outside North America, the only state that is an archipelago, and the only state in the tropics",
+    "price": 5999,
+    "image": "https://i.ibb.co/Pjd1Cq1/susvara.jpg",
+    "type": "OceanPackage"
+  },
+  {
+    "id": 3,
+    "title": "Hifiman Arya",
+    "description": "Grand Canyon National Park, in Arizona, is home to much of the immense Grand Canyon, with its layered bands of red rock revealing millions of years of geological history. Viewpoints include Mather Point, Yavapai Observation Station and architect Mary Colter’s Lookout Studio and her Desert View Watchtower. Lipan Point, with wide views of the canyon and Colorado River, is a popular, especially at sunrise and sunset. ",
+    "price": 1699,
+    "image": "https://i.ibb.co/2kLmqQ7/arya.jpg",
+    "type": "OceanPackage"
+  },
+  {
+    "id": 4,
+    "title": "Audio-Technica ATH-AD700",
+    "description": "Bora Bora is a small South Pacific island northwest of Tahiti in French Polynesia. Surrounded by sand-fringed motus (islets) and a turquoise lagoon protected by a coral reef, it’s known for its scuba diving. It's also a popular luxury resort destination where some guest bungalows are perched over the water on stilts. At the island's center rises Mt. Otemanu, a 727m dormant volcano.",
+    "price": 2399,
+    "image": "https://i.ibb.co/zs6ctr6/ATH-AD700-X.jpg",
+    "type": "OceanPackage"
+  },
+  {
+    "id": 5,
+    "title": "Audio-Technica ATH-AD900x",
+    "description": "Maldives, officially the Republic of Maldives, is an archipelagic state in the Indian subcontinent of Asia, situated in the Indian Ocean. It lies southwest of Sri Lanka and India, about 750 kilometres from the Asian continent's mainland.",
+    "price": 399,
+    "image": "https://i.ibb.co/345mnwV/ath-ad900x.jpg",
+    "type": "OceanPackage"
+  },
+  {
+    "id": 6,
+    "title": "Audio-Technica ATH-AWKT",
+    "description": "The Seychelles is an archipelago of 115 islands in the Indian Ocean, off East Africa. It's home to numerous beaches, coral reefs and nature reserves, as well as rare animals such as giant Aldabra tortoises. Mahé, a hub for visiting the other islands, is home to capital Victoria. It also has the mountain rainforests of Morne Seychellois National Park and beaches, including Beau Vallon and Anse Takamaka.",
+    "price": 1999,
+    "image": "https://i.ibb.co/Dts0tts/ATH-AWKT.jpg",
+    "type": "OceanPackage"
+  },
+  {
+    "id": 7,
+    "title": "Audio-Technica ATH-AD700x",
+    "description": "The Seychelles is an archipelago of 115 islands in the Indian Ocean, off East Africa. It's home to numerous beaches, coral reefs and nature reserves, as well as rare animals such as giant Aldabra tortoises. Mahé, a hub for visiting the other islands, is home to capital Victoria. It also has the mountain rainforests of Morne Seychellois National Park and beaches, including Beau Vallon and Anse Takamaka.",
+    "price": 1999,
+    "image": "https://i.ibb.co/zs6ctr6/ATH-AD700-X.jpg",
+    "type": "OceanPackage"
+  },
+  {
+    "id": 8,
+    "title": "Audeze LCD-X",
+    "description": "The Seychelles is an archipelago of 115 islands in the Indian Ocean, off East Africa. It's home to numerous beaches, coral reefs and nature reserves, as well as rare animals such as giant Aldabra tortoises. Mahé, a hub for visiting the other islands, is home to capital Victoria. It also has the mountain rainforests of Morne Seychellois National Park and beaches, including Beau Vallon and Anse Takamaka.",
+    "price": 2100,
+    "image": "https://i.ibb.co/6XksfNt/lcdx.jpg",
+    "type": "OceanPackage"
+  },
+  {
+    "id": 9,
+    "title": "Hifiman Sundara",
+    "description": "The Seychelles is an archipelago of 115 islands in the Indian Ocean, off East Africa. It's home to numerous beaches, coral reefs and nature reserves, as well as rare animals such as giant Aldabra tortoises. Mahé, a hub for visiting the other islands, is home to capital Victoria. It also has the mountain rainforests of Morne Seychellois National Park and beaches, including Beau Vallon and Anse Takamaka.",
+    "price": 350,
+    "image": "https://i.ibb.co/YQzQ6fK/sundara.jpg",
+    "type": "OceanPackage"
+  }
+]
